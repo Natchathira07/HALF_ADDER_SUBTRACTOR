@@ -55,7 +55,14 @@ Program:
 Developed by:NATCHATHIRA V D
 RegisterNumber:24900864
 
-![image](https://github.com/user-attachments/assets/0e42564e-c7dd-40cd-82bd-da48939b2e34)
+![Screenshot 2024-12-13 205327](https://github.com/user-attachments/assets/8ae618a2-b81d-4ab1-810d-d5b0f8801499)
+
+![Screenshot 2024-12-13 205337](https://github.com/user-attachments/assets/228dcf0e-7c0e-4611-8665-073e9150ce5e)
+
+
+
+
+
 
 RTL Schematic
 
